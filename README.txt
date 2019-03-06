@@ -17,4 +17,6 @@ Shakespearean language, and styles of other authors in readable present dialect,
 
 This repository will contain my files for 
 1) Data processing
-2) Python model file etc
+2) Python model file 
+3) Project Summaries and results
+
